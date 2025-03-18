@@ -1,1 +1,2 @@
 # Image-Enhancement
+The primary objective of image enhancement is to improve the quality of an image by making it more suitable for human perception. This can be done by enhancing specific features such as contrast, brightness, sharpness, or reducing noise to make important details more visible. Image enhancement can be applied to a wide variety of fields including medical imaging, remote sensing, forensics, and entertainment.
